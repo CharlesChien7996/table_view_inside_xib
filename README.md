@@ -1,0 +1,1 @@
+# table_view_inside_xib
